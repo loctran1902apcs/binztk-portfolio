@@ -1,0 +1,26 @@
+.intro {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+
+    &_content {
+        position: absolute;
+        z-index: 1;
+
+        &_left {
+            padding: 60px;
+        }
+    }
+
+    &_bg {
+        position: absolute;
+        z-index: 0 ;
+        top: 0;
+    }
+
+    &_mockup {
+        height: 70%;
+        width: auto;
+    }
+    overflow: hidden;
+}
