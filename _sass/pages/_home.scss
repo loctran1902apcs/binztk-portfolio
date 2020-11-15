@@ -1,3 +1,38 @@
+/* The animation code */
+@keyframes opacity {
+    from {
+        transform: translateY(-100vh);
+    }
+    to {
+        transform: translateY(0);
+    }
+}
+
+#loader {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    z-index: 999;
+    background-color: black;
+    opacity: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    top: 0;
+    transform: translateY(0);
+    // animation-name: opacity;
+    // animation-duration: 1s;
+    // animation-timing-function: ease-in-out;
+
+    &.remove {
+        transform: translateY(-100vh);
+        transition: transform 1s ease-in-out;
+    }
+
+}
+
+
+
 .intro {
     width: 100vw;
     height: 100vh;
