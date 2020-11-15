@@ -45,6 +45,7 @@ header {
   width: 100%;
   position: fixed;
   top: 0;
+  left: 0;
   &.black {
     background-color: black;
   }
@@ -129,6 +130,7 @@ header > nav {
   main {
     width: auto;
     max-width: none;
+    margin-top: 61px;
   }
 }
 

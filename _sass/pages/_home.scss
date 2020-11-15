@@ -8,6 +8,17 @@
     }
 }
 
+.container {
+    margin-top: 10px;
+}
+
+.topic-title {
+    padding: 40px;
+    @include until(769px) {
+        padding: 30px;
+    }
+}
+
 #loader {
     width: 100vw;
     height: 100vh;
@@ -46,8 +57,6 @@
 
 
 .card-image {
-    width: auto;
-    object-fit: contain;
 }
 
 .masonryGrid {
@@ -72,3 +81,23 @@
 .card--href {
     text-decoration: none;
 }
+
+.post-content {
+    padding: 20px 30px 30px 30px;
+    background-color: #000;
+}
+
+.post-title {
+    color: #fff;
+    font-size: 20px;
+    padding: 0;
+    margin-bottom: 10px;
+}
+.post-schedule {
+    color: #fff;
+    font-size: 10px;
+    opacity: 0.6;
+    margin-bottom: 25px;
+}
+
+
