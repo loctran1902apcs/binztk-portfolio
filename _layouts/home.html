@@ -5,16 +5,20 @@ layout: default
 
   {{ content }}
 
-  <section>
+  <section class="container">
 
-    <!-- <h3>Recent posts from the blog</h3>
+    <h3>Recent posts from the blog</h3>
 
-    <ul>
-      {% for post in site.posts limit:3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a>
+    <ul class="masonryGrid">
+      {% for post in site.posts %}
+        <li class="masonryGrid--item">
+          <a class="card--href" href="{{ post.url }}">
+            <img class="card-image" src="https://drive.google.com/uc?export=view&id={{ post.thumbnail_ID}}" />
+            <h3 class="card--title">{{ post.title }}</h3>
+            <caption>{{ post.categories }}</caption>
+          </a>
         </li>
       {% endfor %}
-    </ul> -->
+    </ul>
 
   </section>

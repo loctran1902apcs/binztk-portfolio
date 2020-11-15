@@ -24,14 +24,32 @@
 
 // header, the first grid row
 // it is also a grid for the logo and nav
+
+.logo {
+  &__black {
+    height: 30px;
+    fill: black;
+  }
+
+  &__white {
+    height: 30px;
+    fill: white;
+  }
+}
+
 header {
-  grid-column: full;
-  display: grid;
-  background-color: $brand-color;
-  padding: 2rem;
-  @media screen and (min-width: $screen-sm-min) {
-    grid-template-columns: 1fr auto;
-    grid-column-gap: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  width: 100%;
+  position: fixed;
+  &.black {
+    background-color: black;
+  }
+
+  &.white {
+    background-color: white;
   }
 }
 

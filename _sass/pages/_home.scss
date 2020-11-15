@@ -24,3 +24,27 @@
     }
     overflow: hidden;
 }
+
+.card-image {
+    height: 300px;
+    width: auto;
+    object-fit: contain;
+}
+
+.masonryGrid {
+    column-count: 3;
+    column-gap: .8em;
+
+    &--item {
+        display: inline-block;
+        margin: 0 0 .4em;
+        width: 100%;
+        box-sizing: border-box;
+        overflow: hidden;
+        cursor: pointer;
+    }
+}
+
+.card--href {
+    text-decoration: none;
+}

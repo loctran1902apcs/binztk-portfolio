@@ -5,11 +5,7 @@ permalink: /
 section: home
 intro_title: Career Compass
 intro_paragraph: >
-  [Jekyll Netlify Boilerplate](https://github.com/danurbanowicz/jekyll-netlify-boilerplate)
-  provides the basics to get a fast, static website deployed on Netlify.
-  Features [Netlify CMS](https://www.netlifycms.org), responsive
-  CSS Grid layout, sample
-  pages and posts, and a continuous deployment workflow.
+  I'm Binz. A Vietnamese based <strong>Filmmaker</strong> & <strong>Photographer</strong>.
 intro_overview: >
   Loc shape our lives, and it is essential to choose the right career that is enjoyable and meaningful for us.
 
