@@ -1,5 +1,11 @@
 @charset "utf-8";
 
+@import 
+  "bulma/mixin",
+  "bulma/layout",
+  "bulma/spacing"
+;
+
 @import
   "partials/fonts",
   "partials/variables",
@@ -12,10 +18,4 @@
 
 @import
   "pages/home"
-;
-
-@import 
-  "bulma/mixin",
-  "bulma/layout",
-  "bulma/spacing"
 ;

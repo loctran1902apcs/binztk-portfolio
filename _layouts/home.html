@@ -15,7 +15,7 @@ layout: default
           <a class="card--href" href="{{ post.url }}">
             <img class="card-image" src="https://drive.google.com/uc?export=view&id={{ post.thumbnail_ID }}" />
             <h3 class="card--title">{{ post.title }}</h3>
-            <caption>{{ post.categories }}</caption>
+            <p class="card--category">{{ post.categories }}</p>
           </a>
         </li>
       {% endfor %}
