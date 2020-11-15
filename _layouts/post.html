@@ -17,12 +17,14 @@ layout: default
       </small>
     </time>
   </p>
-  
+  {{ content }}
+
   {% include page-intro.html %}
 </div>
 <section class="container">
+  <h3 class="pl-6 pt-6"> Other Works </h3>
   <ul class="masonryGrid">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:12 %}
       <li class="masonryGrid--item" data-aos="fade-up" data-aos-offset="100" data-aos-delay="400">
         <a class="card--href" href="{{ post.url }}">
           <img class="card-image" src="https://drive.google.com/uc?export=view&id={{ post.thumbnail_ID }}" />
@@ -32,11 +34,7 @@ layout: default
       </li>
     {% endfor %}
   </ul>
-
-
-
-{{ content }}
-
+<!-- 
 <nav aria-label="Adjacent Posts">
   <ul>
     {% if page.previous.url %}
@@ -50,4 +48,4 @@ layout: default
       </li>
     {% endif %}
   </ul>
-</nav>
+</nav> -->
