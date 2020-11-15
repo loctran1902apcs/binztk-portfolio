@@ -11,7 +11,7 @@ layout: default
 
     <ul class="masonryGrid">
       {% for post in site.posts %}
-        <li class="masonryGrid--item">
+        <li class="masonryGrid--item" data-aos="fade-up" data-aos-offset="100" data-aos-delay="1000">
           <a class="card--href" href="{{ post.url }}">
             <img class="card-image" src="https://drive.google.com/uc?export=view&id={{ post.thumbnail_ID}}" />
             <h3 class="card--title">{{ post.title }}</h3>
