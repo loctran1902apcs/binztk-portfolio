@@ -4,7 +4,7 @@ title: 1DEE x GIZMO x JAYM - KHONG GIONG MAY
 author: loc_tran
 date: '2018-07-03 12:00:00'
 intro_paragraph: ''
-categories: #MV
+categories: MV
 youtube_id:  6joZdnqZsxI
 thumbnail_ID:  153eLmCoVNRm0yvqA6ZlA_SeeCoI_jfdp
 ---

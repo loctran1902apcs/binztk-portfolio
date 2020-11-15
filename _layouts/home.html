@@ -1,17 +1,18 @@
 ---
 layout: default
 ---
-  {% include page-intro.html %}
-
   {{ content }}
 
+  <div class="container intro_paragraph">
+    <h1>
+      {{ page.intro_paragraph }}
+    </h1>
+  </div>
+
   <section class="container">
-
-    <h3>Recent posts from the blog</h3>
-
     <ul class="masonryGrid">
       {% for post in site.posts %}
-        <li class="masonryGrid--item" data-aos="fade-up" data-aos-offset="100" data-aos-delay="1000">
+        <li class="masonryGrid--item" data-aos="fade-up" data-aos-offset="100" data-aos-delay="400">
           <a class="card--href" href="{{ post.url }}">
             <img class="card-image" src="https://drive.google.com/uc?export=view&id={{ post.thumbnail_ID }}" />
             <h3 class="card--title">{{ post.title }}</h3>

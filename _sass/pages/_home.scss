@@ -32,36 +32,20 @@
 }
 
 
+.intro_paragraph {
+    margin-top: 80px;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    padding-left: 40px;
 
-.intro {
-    width: 100vw;
-    height: 100vh;
-    position: relative;
-
-    &_content {
-        position: absolute;
-        z-index: 1;
-
-        &_left {
-            padding: 60px;
-        }
+    & h1 {
+        font-weight: unset;
+        font-size: 2rem;
     }
-
-    &_bg {
-        position: absolute;
-        z-index: 0 ;
-        top: 0;
-    }
-
-    &_mockup {
-        height: 70%;
-        width: auto;
-    }
-    overflow: hidden;
 }
 
+
 .card-image {
-    height: 300px;
     width: auto;
     object-fit: contain;
 }
