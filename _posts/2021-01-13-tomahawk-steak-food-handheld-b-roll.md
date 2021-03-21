@@ -4,7 +4,7 @@ title: TOMAHAWK STEAK/FOOD - HANDHELD B ROLL
 author: loc_tran
 date: 2021-01-13 12:00:00
 intro_paragraph: ''
-categories: #FOOD
+categories: FOOD
 youtube_id:  74NXN-WH6PQ
 thumbnail_ID:  11A6T2TwOYjWNU4gV4sirP6vXvwVnmWX6
 ---

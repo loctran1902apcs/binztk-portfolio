@@ -24,7 +24,7 @@
     height: 100vh;
     position: fixed;
     z-index: 999;
-    background-color: black;
+    background-color: $neu-10;
     opacity: 1;
     display: flex;
     align-items: center;
@@ -48,6 +48,7 @@
     padding-top: 3rem;
     padding-bottom: 3rem;
     padding-left: 40px;
+    color: white;
 
     & h1 {
         font-weight: unset;

@@ -26,13 +26,13 @@
 // it is also a grid for the logo and nav
 
 body {
-  background-color: black;
+  background-color: $neu-10;
 }
 
 .logo {
   &__black {
     height: 30px;
-    fill: black;
+    fill: $neu-10;
   }
 
   &__white {
@@ -51,7 +51,7 @@ header {
   top: 0;
   left: 0;
   &.black {
-    background-color: black;
+    background-color: $neu-10;
   }
 
   &.white {

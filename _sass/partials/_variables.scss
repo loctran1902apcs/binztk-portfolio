@@ -7,10 +7,11 @@ $link-hover-color: rgb(0,57,78);
 $grey-bg-color: rgb(243,243,243);
 $hairline-color: rgb(230,230,230);
 $selection-bg-color: rgba(255,255,100,0.5);
+$neu-10: #19171a;
 
 // typographic defaults
-$base-font: 'Montserrat', system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Droid Sans,Helvetica Neue;
-$serif-font: 'Lora', serif;
+$base-font: 'Mulish', sans-serif;
+$serif-font: $base-font;
 $code-font: Courier, monospace;
 $base-font-size: 62.5%;
 $base-font-weight: 300;

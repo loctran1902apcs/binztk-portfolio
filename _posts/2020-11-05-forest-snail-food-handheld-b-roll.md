@@ -4,7 +4,7 @@ title: FOREST SNAIL/FOOD - HANDHELD B ROLL
 author: loc_tran
 date: 2020-11-05 12:00:00
 intro_paragraph: ''
-categories: #FOOD
+categories: FOOD
 youtube_id:  rjWJGHQVN5U
 thumbnail_ID:  1axwcs7Ry01dv_wCO2s5kI70_9mAy-Dut
 ---
