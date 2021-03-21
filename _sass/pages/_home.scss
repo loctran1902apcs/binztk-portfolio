@@ -60,21 +60,23 @@
 }
 
 .masonryGrid {
-    column-count: 3;
-    column-gap: 1rem;
-    padding: 40px;
+    display: flex;
+    flex-wrap: wrap;
+
     &--item {
         display: inline-block;
-        margin: 0 0 .4em;
-        width: 100%;
+        margin: 15px;
+        width: calc( 33.3333% - 30px );
         box-sizing: border-box;
         overflow: hidden;
         cursor: pointer;
-    }
-    @include until(769px) {
-        column-count: 2;
-        column-gap: 0.8rem;
-        padding: 30px;
+        @include until(769px) {
+            margin: 30px;
+            width: calc( 50% - 60px );
+        }
+        @include until(576px) {
+            width: calc( 100% );
+        }
     }
 }
 
