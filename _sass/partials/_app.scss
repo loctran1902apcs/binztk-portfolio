@@ -25,6 +25,10 @@
 // header, the first grid row
 // it is also a grid for the logo and nav
 
+body {
+  background-color: black;
+}
+
 .logo {
   &__black {
     height: 30px;
