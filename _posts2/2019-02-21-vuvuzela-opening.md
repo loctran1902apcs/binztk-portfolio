@@ -2,10 +2,10 @@
 layout: post
 title: VUVUZELA OPENING
 author: loc_tran
-date: 2019-02-21 12:00:00
+date: '2018-07-03 12:00:00'
 intro_paragraph: ''
-categories: #EVENT
+categories: EVENT
 youtube_id:  o4KtoCjwoxs
-thumbnail_ID:  1mjh64SKBtq5ZEIQSUHu_6IsirCIczoDJ
+thumbnail_ID:  13xJ06uFfYm-gpb_qWVSthJI9KGRpOlNT
 ---
 VUVUZELA OPENING (Wine Me)

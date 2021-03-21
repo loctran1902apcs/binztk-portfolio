@@ -2,9 +2,9 @@
 layout: post
 title: UNAGI-DELI FOOD
 author: loc_tran
-date: 2020-11-15 12:00:00
+date: '2018-07-03 12:00:00'
 intro_paragraph: ''
-categories: #FOOD
+categories: FOOD
 youtube_id:  xXtZf_wDSnk
 thumbnail_ID:  1CBeCpPtJfGaS-d5OqsOsj_ww4u2FEQXh
 ---

@@ -2,9 +2,9 @@
 layout: post
 title: WE ARE - DOWNTOWN
 author: loc_tran
-date: 2017-12-22 12:00:00
+date: '2018-07-03 12:00:00'
 intro_paragraph: ''
-categories: #FASHION
+categories: FASHION
 youtube_id:  ixI2GJkTItE
 thumbnail_ID:  15vmrIhmubY8Hg9ZRcGu3gWvcGrHkPEWB
 ---
