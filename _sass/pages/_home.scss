@@ -89,19 +89,34 @@
     padding: 20px 30px 30px 30px;
     background-color: #000;
     margin-top: -7px;
+    color: #fff;
 }
 
 .post-title {
-    color: #fff;
     font-size: 20px;
     padding: 0;
     margin-bottom: 10px;
 }
 .post-schedule {
-    color: #fff;
     font-size: 10px;
     opacity: 0.6;
     margin-bottom: 25px;
+}
+
+.post-table {
+    color: #fff;
+}
+
+.footer {
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    color: #fff;
+    padding: 40px;
+    p {
+        padding: 0;
+    }
 }
 
 
