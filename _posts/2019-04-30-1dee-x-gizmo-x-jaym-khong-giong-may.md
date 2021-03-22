@@ -4,7 +4,7 @@ author: loc_tran
 title: 1DEE x GIZMO x JAYM - KHONG GIONG MAY
 youtube_id: 6joZdnqZsxI
 categories: MV
-thumbnail: /assets/img/uploads/maxresdefault.jpeg
+thumbnail: https://drive.google.com/uc?export=view&id=153eLmCoVNRm0yvqA6ZlA_SeeCoI_jfdp
 thumbnail_ID: 153eLmCoVNRm0yvqA6ZlA_SeeCoI_jfdp
 date: 2019-04-30 12:00:00
 intro_paragraph: ""
