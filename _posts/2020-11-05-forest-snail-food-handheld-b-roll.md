@@ -1,11 +1,12 @@
 ---
 layout: post
-title: FOREST SNAIL/FOOD - HANDHELD B ROLL
 author: loc_tran
-date: 2020-11-05 12:00:00
-intro_paragraph: ''
+title: FOREST SNAIL/FOOD - HANDHELD B ROLL
+youtube_id: rjWJGHQVN5U
 categories: FOOD
-youtube_id:  rjWJGHQVN5U
-thumbnail_ID:  1axwcs7Ry01dv_wCO2s5kI70_9mAy-Dut
+thumbnail: /assets/img/uploads/oc-rung-xao-tia-to.00_00_04_10.still003.jpg
+thumbnail_ID: 1axwcs7Ry01dv_wCO2s5kI70_9mAy-Dut
+date: 2020-11-05 12:00:00
+intro_paragraph: ""
 ---
 FOREST SNAIL/FOOD - HANDHELD B ROLL | CANON R5 + CANON 16 35 2.8 + LAOWA 24 PROBE LENS
