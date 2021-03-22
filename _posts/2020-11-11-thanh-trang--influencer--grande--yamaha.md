@@ -1,11 +1,12 @@
 ---
 layout: post
-title: THANH TRANG | INFLUENCER | GRANDE | YAMAHA
 author: loc_tran
-date: 2020-11-11 12:00:00
-intro_paragraph: ''
+title: THANH TRANG | INFLUENCER | GRANDE | YAMAHA
+youtube_id: bMzPWWe4cyI
 categories: INFLUENCER
-youtube_id:  bMzPWWe4cyI
-thumbnail_ID:  1ClB9wzZ8uDjYXUS0dzXWXnOBZ-nHyNAB
+thumbnail: https://drive.google.com/uc?export=view&id=1ClB9wzZ8uDjYXUS0dzXWXnOBZ-nHyNAB
+thumbnail_ID: 1ClB9wzZ8uDjYXUS0dzXWXnOBZ-nHyNAB
+date: 2020-11-11 12:00:00
+intro_paragraph: ""
 ---
 THANH TRANG | INFLUENCER | GRANDE | YAMAHA
