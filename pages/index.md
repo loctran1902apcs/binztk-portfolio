@@ -5,7 +5,7 @@ permalink: /
 section: home
 intro_title: Career Compass
 intro_paragraph: >
-  I'm Binz. A Vietnamese based <strong>Filmmaker</strong> & <strong>Photographer</strong>.
+  Binz is a 🇻🇳 Vietnamese <strong>🎬 Filmmaker</strong> & <strong>📷 Photographer</strong> based in Sai Gon.
 intro_overview: >
   Loc shape our lives, and it is essential to choose the right career that is enjoyable and meaningful for us.
 
