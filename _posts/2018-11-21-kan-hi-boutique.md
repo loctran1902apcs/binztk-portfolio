@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Kan Hi Boutique
 author: loc_tran
-date: 2018-11-21 12:00:00
-intro_paragraph: ''
+title: Kan Hi Boutique
+youtube_id: CgYGBXrRaxU
 categories: FASHION
-youtube_id:  CgYGBXrRaxU
-thumbnail_ID:  1--0PFRLsuBYFrjhZOO1kD9BJFwjLPW0x
+thumbnail: /assets/img/uploads/kan-hi.jpeg
+date: 2018-11-21 12:00:00
+intro_paragraph: ""
 ---
 Fashion Project for Kan Hi Boutique
