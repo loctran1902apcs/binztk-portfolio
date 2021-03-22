@@ -4,8 +4,7 @@ author: loc_tran
 title: Người Lạ Ơi - Thiên Khôi (ACOUSTIC COVER)
 youtube_id: xVAaq8L6u7g
 categories: MV
-thumbnail: https://drive.google.com/uc?export=view&id=1oh3f4qy_hrCtc4Y4ALv1OkrfW-FAArq5
-thumbnail_ID: 1oh3f4qy_hrCtc4Y4ALv1OkrfW-FAArq5
+thumbnail: /assets/img/uploads/maxresdefault-5-.jpg
 date: 2018-02-16 12:00:00
 intro_paragraph: ""
 ---
