@@ -1,11 +1,12 @@
 ---
 layout: post
-title: WE ARE - DOWNTOWN
 author: loc_tran
-date: 2017-12-22 12:00:00
-intro_paragraph: ''
+title: WE ARE - DOWNTOWN
+youtube_id: ixI2GJkTItE
 categories: FASHION
-youtube_id:  ixI2GJkTItE
-thumbnail_ID:  15vmrIhmubY8Hg9ZRcGu3gWvcGrHkPEWB
+thumbnail: /assets/img/uploads/color-track-máter-resolve-.00_01_40_19.still001.jpg
+thumbnail_ID: 15vmrIhmubY8Hg9ZRcGu3gWvcGrHkPEWB
+date: 2017-12-22 12:00:00
+intro_paragraph: ""
 ---
 WE ARE | Downtown | a6000 + Sigma 30mm 1.4 + Feiyu A2000
