@@ -4,7 +4,7 @@ author: loc_tran
 title: FOREST SNAIL/FOOD - HANDHELD B ROLL
 youtube_id: rjWJGHQVN5U
 categories: FOOD
-thumbnail: /assets/img/uploads/oc-rung-xao-tia-to.00_00_04_10.still003.jpg
+thumbnail: https://drive.google.com/uc?export=view&id=14PlTLrd9LVlIb2MYZTkcEGlDNMFAxp_X
 thumbnail_ID: 1axwcs7Ry01dv_wCO2s5kI70_9mAy-Dut
 date: 2020-11-05 12:00:00
 intro_paragraph: ""
