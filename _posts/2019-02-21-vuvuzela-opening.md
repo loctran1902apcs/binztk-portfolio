@@ -4,7 +4,7 @@ author: loc_tran
 title: VUVUZELA OPENING
 youtube_id: o4KtoCjwoxs
 categories: EVENT
-thumbnail: /assets/img/uploads/11754825_1060596420618972_7866048982639253962_o.png
+thumbnail: https://drive.google.com/uc?export=view&id=1mjh64SKBtq5ZEIQSUHu_6IsirCIczoDJ
 thumbnail_ID: 1mjh64SKBtq5ZEIQSUHu_6IsirCIczoDJ
 date: 2019-02-21 12:00:00
 intro_paragraph: ""
