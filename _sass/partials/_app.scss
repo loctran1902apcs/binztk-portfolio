@@ -50,6 +50,7 @@ header {
   position: fixed;
   top: 0;
   left: 0;
+  z-index: 2;
   &.black {
     background-color: $neu-10;
   }

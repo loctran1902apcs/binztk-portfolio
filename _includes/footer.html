@@ -1,17 +1,17 @@
 <footer class="nav_footer">
-  <div class="site_map__container">
-    <div class="site_map">
-      {% for icon in site.social-icons %}
-        <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
-          {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
-          <div class="social-icon--title visuallyHidden">{{ icon.title }}</div>
+      <div class="site_map__container">
+        <div class="site_map">
+          {% for icon in site.social-icons %}
+            <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
+              {% include {{ icon.class | prepend: 'social-icons/' | append: '.svg' }} %}
+              <div class="social-icon--title visuallyHidden">{{ icon.title }}</div>
+            </a>
+          {% endfor %}
+        </div>
+      </div>
+      <div class="footer_copyright">
+        <a href="tel:0901541998" class="link_nav_footer">
+          <font style="vertical-align: inherit;">0901 541 998</font>
         </a>
-      {% endfor %}
-    </div>
-  </div>
-  <div class="footer_copyright">
-    <a href="tel:0901541998" class="link_nav_footer">
-      <font style="vertical-align: inherit;">0901 541 998</font>
-    </a>
-  </div>
+      </div>
 </footer>

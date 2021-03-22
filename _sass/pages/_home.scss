@@ -45,14 +45,18 @@
 
 .intro_paragraph {
     margin-top: 80px;
+    padding-left:15px;
     padding-top: 3rem;
     padding-bottom: 3rem;
-    padding-left: 40px;
     color: white;
 
     & h1 {
         font-weight: unset;
         font-size: 2rem;
+    }
+
+    @include mobile() {
+        padding-left: 30px;
     }
 }
 
@@ -63,6 +67,7 @@
 .masonryGrid {
     display: flex;
     flex-wrap: wrap;
+    padding-bottom: 20px;
 
     &--item {
         display: inline-block;

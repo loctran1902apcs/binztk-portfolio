@@ -5,15 +5,15 @@
   left: 0;
   display: flex;
   width: 100%;
-  padding: 32px;
+  padding: 20px 90px;
   justify-content: space-between;
   align-items: center;
   background: $neu-10;
-  @media screen and (max-width: 991px) {
-    padding: 20px;
-    flex-direction: row;
-    align-items: center;
+
+  @include mobile() {
+    padding: 20px 30px;
   }
+
   .site_map {
     display: flex;
     flex-direction: row;
@@ -50,6 +50,10 @@
       font-size: 12px;
     }
   }
+}
+
+.nav-inner {
+
 }
 
 .social-icon {

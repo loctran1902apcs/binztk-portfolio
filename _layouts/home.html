@@ -2,14 +2,13 @@
 layout: default
 ---
   {{ content }}
-  <div class="intro_paragraph">
-    <h1>
-      {{ page.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
-    </h1>
-  </div>
   <section class="container">
-
-
+    <div class="intro_paragraph">
+      <h1>
+        {{ page.intro_paragraph | markdownify | remove: '<p>' | remove: '</p>' }}
+      </h1>
+    </div>
+  </section>
   <section class="container">
     <ul class="masonryGrid">
       {% for post in site.posts %}
@@ -22,5 +21,4 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-
   </section>
