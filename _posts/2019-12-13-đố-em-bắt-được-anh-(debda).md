@@ -1,11 +1,12 @@
 ---
 layout: post
-title: ĐỐ EM BẮT ĐƯỢC ANH (DEBDA)
 author: loc_tran
-date: 2019-12-13 12:00:00
-intro_paragraph: ''
+title: ĐỐ EM BẮT ĐƯỢC ANH (DEBDA)
+youtube_id: bxTWFkvyas4
 categories: MV
-youtube_id:  bxTWFkvyas4
-thumbnail_ID:  10VMWt-y-ygzumS8KtG-U4oh2Esc3x_md
+thumbnail: /assets/img/uploads/maxresdefault-2-.jpeg
+thumbnail_ID: 10VMWt-y-ygzumS8KtG-U4oh2Esc3x_md
+date: 2019-12-13 12:00:00
+intro_paragraph: ""
 ---
 ĐỐ EM BẮT ĐƯỢC ANH (DEBDA) | ĐỖ PHÚ QUÍ x DOUBLE NOIZE | OFFICIAL MUSIC VIDEO
