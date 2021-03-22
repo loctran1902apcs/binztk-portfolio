@@ -82,3 +82,20 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+social-icons:
+  - title: Mail
+    url: "mailto:thehien.btk@gmail.com"
+    class: mail
+  - title: Instagram
+    url: https://www.instagram.com/binztk
+    class: instagram
+  - title: Twitter
+    url: https://twitter.com/binztk
+    class: twitter
+  - title: Youtube
+    url: https://www.youtube.com/BinzTK
+    class: youtube
+  - title: Facebook
+    url: https://facebook.com/BinzTK
+    class: facebook
