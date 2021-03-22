@@ -59,14 +59,14 @@
 .social-icon {
   &--link {
     width: 32px;
-    margin-right: 18px;
+    margin-right: 14px;
 
     @include mobile() {
       margin-right: 20px;
     }
   }
   &--link > svg {
-    height: 24px;
+    height: 22px;
     fill: $off-white;
 
     &:hover {
