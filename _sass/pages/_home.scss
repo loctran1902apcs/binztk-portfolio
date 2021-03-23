@@ -56,7 +56,7 @@
     }
 
     @include mobile() {
-        padding-left: 30px;
+        padding: 2rem;
     }
 }
 
@@ -82,6 +82,7 @@
         }
         @include until(576px) {
             width: calc( 100% );
+            margin-top: 0;
         }
     }
 }

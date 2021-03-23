@@ -19,49 +19,40 @@
     flex-direction: row;
     align-items: flex-start;
   }
-  
-  .link_nav_footer {
-      font-weight: bold;
-      color: #f5f5f5;
-      font-size: 1.5vw;
-      text-transform: uppercase;
-      text-decoration: none;
-      @media screen and (max-width: 991px){
-        font-size: 14px;
-      }
-      @media screen and (max-width: 576px) {
-        color: #f5f5f5;
-        font-size: 14px;
-      }
-  }
+}
 
-  .footer_copyright {
+.link_nav_footer {
+  color: #f5f5f5;
+  font-size: 1.3rem;
+  text-align: right;
+  text-transform: uppercase;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-weight: bold;
+
+  &:hover {
     color: #f5f5f5;
-    font-size: 1.5vw;
-    text-align: right;
-    text-transform: uppercase;
-    @media screen and (max-width: 991px) {
-      font-size: 14px;
-    }
-    @media screen and (max-width: 576px) {
-      color: #f5f5f5;
-      font-size: 12px;
+    & > span {
+      animation: swinging 1.5s ease-in-out forwards infinite;
     }
   }
 }
 
-.nav-inner {
-
+@keyframes swinging{
+  0%{transform: rotate(10deg);}
+  50%{transform: rotate(-5deg)}
+  100%{transform: rotate(10deg);}
 }
 
 .social-icon {
   &--link {
+    text-align: right;
     width: 32px;
-    margin-right: 18px;
+    margin-left: 18px;
 
     @include mobile() {
       width: 26px;
-      margin-right: 14px;
+      margin-left: 14px;
     }
   }
   &--link > svg {
