@@ -1,0 +1,42 @@
+{
+  "name": "binztk-portfolio",
+  "version": "1.0.0",
+  "description": "*Note: Check out my [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/eleventy-netlify-boilerplate). It does pretty much the same as this project but uses the [Eleventy](https://www.11ty.io/) static site generator. It's fast, flexible and doesn't require Ruby.*",
+  "main": "index.js",
+  "scripts": {
+    "jekyll:dev": "bundle exec jekyll serve --incremental --watch --livereload --host=0.0.0.0",
+    "jekyll:build": "JEKYLL_ENV=production bundle exec jekyll build",
+    "css:dev": "postcss _sass/main.scss --output assets/css/style.css --watch",
+    "css:build": "NODE_ENV=production postcss _sass/main.scss --output assets/css/style.css",
+    "develop:webpack": "webpack --mode development --watch",
+    "dev": "concurrently --kill-others \"npm run jekyll:dev\" \"npm run css:dev\" \"npm run develop:webpack\"",
+    "build": "npm run css:build && npm run jekyll:build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "engines": {
+    "node": ">=14.17.1",
+    "npm": ">=6.14.3"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "autoprefixer": "^10.2.6",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "concurrently": "^6.2.0",
+    "cssnano": "^5.0.6",
+    "postcss": "^8.3.5",
+    "postcss-cli": "^8.3.1",
+    "tailwindcss": "^2.2.4",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  },
+  "dependencies": {
+    "postcss-import": "^14.0.2",
+    "postcss-scss": "^4.0.0"
+  }
+}

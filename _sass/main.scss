@@ -1,6 +1,10 @@
 @charset "utf-8";
 
-@import 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import
   "bulma/minireset",
   "bulma/mixin",
   "bulma/layout",
